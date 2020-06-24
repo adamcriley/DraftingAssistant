@@ -1,0 +1,19 @@
+{
+"manifest_version": 2,
+    "name": "Key Cite Enhancer",
+    "description": "This extension 'flags' case name text with highlighting based on thier Westlaw Key Cite treatment",
+    "version": "1.0",
+    "content_scripts": [
+		{
+			"matches" : [
+				"<all_urls>"
+                 ],
+                  "js" : ["content.js"]
+        }
+    ],
+    "background" : {
+                  "scripts" : ["background.js"]
+    },
+    "browser_action" : {
+    }
+}

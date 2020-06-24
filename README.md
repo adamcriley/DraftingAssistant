@@ -1,0 +1,1 @@
+This Chrome extension 'flags' cases with highlighting based on thier Westlaw Key Cite treatment
