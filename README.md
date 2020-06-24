@@ -1,1 +1,1 @@
-This Chrome extension 'flags' cases with highlighting based on thier Westlaw Key Cite treatment
+These are small projects associated with ideas for Drafting Assistant
